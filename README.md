@@ -68,6 +68,30 @@ The Hourly Seasonal Index model achieved the best performance and was selected a
 
 ---
 
+## 📷 Project Screenshots
+
+### Overall Daily Rental Trend
+
+![Overall Daily Rental Trend](Images/overall_daily_rental_trend.png)
+
+### Hourly Seasonal Pattern
+
+![Hourly Seasonal Pattern](Images/hourly_seasonal_pattern.png)
+
+### Bike Rental Demand for a Selected Day
+
+![Selected Day Rental Demand](Images/selected_day_rental_demand.png)
+
+### Forecast Validation – Actual vs Predicted Demand
+
+![Forecast Validation](Images/forecast_validation.png)
+
+### Future Bike Rental Demand Forecast
+
+![Future Demand Forecast](Images/future_bike_rental_demand_forecast.png)
+
+---
+
 ## Repository Structure
 
 ```text
